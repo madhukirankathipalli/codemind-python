@@ -1,7 +1,7 @@
-a=int(input())
-b=int(input())
-c=b*30
-if a>=c :
+x= int(input())
+y=int(input())
+c=y*30
+if x>=c :
     print("YES")
 else :
     print("NO")
