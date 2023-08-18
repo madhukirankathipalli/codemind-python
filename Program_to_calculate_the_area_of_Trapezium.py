@@ -1,5 +1,5 @@
-a=int(input())
-b=int(input())
+b1=int(input())
+b2=int(input())
 h=int(input())
-t=(a+b)*(h/2)
-print(f"{t:.4f}")
+ar=((b1+b2)/2)*h
+print(f"{ar:.4f}")
