@@ -1,2 +1,3 @@
-r= int( input())
-print(3.14*r**2)
+a=int(input())
+pi=3.14
+print(f"{(pi*a*a):.2f}")
